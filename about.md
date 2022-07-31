@@ -6,25 +6,35 @@ permalink: /about/
 
 <div class="column leftcol">
 
-Hi folks, I am a Machine Learning Engineer by Profession and co-author of the book <a href="https://www.amazon.com/dp/B08RN47C5T" target="_blank">Sculpting Data for ML</a>. I developed a passion for identifying and tackling novel and practical problems using Machine Learning during my research internships at the Indian Institute of Technology Madras, which I further explored during my Master's in Computer Science from the University of California San Diego. I try to combine my past engineering experiences in designing large-scale systems, working at Amazon and Arcesium (a D.E. Shaw company), and research experiences in Applied Machine Learning to develop distributed Machine Learning relevance systems at Twitter.
+Hi, folks I'm <strong>Qasim Hassan<strong> (<strong>aiwithqasim</strong>) a <i>Computer Engineer</i> graduate & <i>Data Engineer</i> by profession from Pakistan. Worked with 48+ different ML Engineers globally to solve energy crises problem. Certified from 10+ International Joints including Microsoft, Udacity, Datacamp & Deeplearning.ai.
 
-My explorations have led to several research publications in competitive ML conferences like RecSys, ACL, and WSDM (with 150+ citations). The ML community has also well received the datasets collected (also used in the book) as part of my research. Kaggle recently ranked me as one of the top 20 dataset contributors on the platform, and Deeplearning.ai's "Natural Language Processing in TensorFlow" course on Coursera used my Sarcasm Detection dataset for teaching purposes. 
-  
-These days, I'm actively working on promoting data centric view and approaches in AI, which is also one of the topics in our book Sculpting Data for ML. Follow DataForML handle on <a href="https://twitter.com/DataForML" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/company/dataforml/" target="_blank">LinkedIn</a> to stay up-to-date.
-  
-In my downtime, I enjoy watching sci-fi shows, working-out, video gaming, and spending time with my family. I presently live in the Bay Area.
+I have recebtly completed my Bacholor's from Bahria University Karachi Campus (BUKC) . Quality Time and Acts of Service are my primary languages. Highly empathetic, loves to get to deeply know people. Family is a priority. Supporters of growth, my friends, become family.Open-minded and always learning. Draws outside lines to engage in creativity. Big picture thinker, but specializes in subtleties. Like an anomaly, tries to be creatively apart - break status quo. Works hard but can make mistakes - human. Errors, mistakes, and obstacles build strength and character. Appreciates the beauty of education, never stop learning. Uses communication to form relationships, solve problems, understand people and set/achieve goals.
 
-<h4> Last updated: 10th Sep 2021 </h4>
+I embarked on a career path where I can use these gifts and skills (mentioned above) to help businesses and the people that make up the companies.I love to help people excel and achieve their potential and goals. I love to analyze the things that work, whether that's people's talents or a community's success. I thrive off of understanding that(very data-driven) and redirecting that success and energy to lift those around me.He ultimate goal is to serve people, a community of people and help them thrive.My era Of intreset lies in Web Development , Devops , Artifical Intelligence Researches i:e Data Scientist , Deep Lerning ,Machine learning.My expertise are in 
+
+- Python programmer (Microsoft Certified)
+- SQL / MongoDB
+- Data Mining / Extraction
+- Data Piplineing (ETL)
+- Data Preprocessing (Numpy, Pandas)
+- Data Visualization (PowetBI, Matplotlib, Seabron)
+- Big Data Analytics (Spark, Hadoop, Airflow)
+- Exploratory Data Analysis (EDA)
+- Deep Learning.
+- Neural Network Architecture design (CNN)
+- Amazon Web Service (AWS)
+ 
+<h4> Last updated: 07th July 2022 </h4>
 
 <h3> Contact </h3>
 
-Please reach out to me @ <a href="mailto:qasimhassan1020@gmail.com">qasimhassan1020@gmail.com</a> or DM me on Twitter: <a href="https://twitter.com/messages/compose?recipient_id=2591106696&text=Hey%20Rishabh" class="twitter-dm-button" data-screen-name="@rishabh_misra_" data-size=large>Message @rishabh_misra_</a>
+Please reach out to me @ <a href="mailto:qasimhassan1020@gmail.com">qasimhassan1020@gmail.com</a> or DM me on Linkedin <a href="https://www.linkedin.com/in/aiwithqasim/" target="_blank" ><img src="/images/social_logo/linkedin.png"/>
 
 </div>
 
-<div class="column rightcol">
+<!-- <div class="column rightcol">
 
 <a class="twitter-timeline" data-width="600" data-height="650" href="https://twitter.com/rishabh_misra_?ref_src=twsrc%5Etfw">Tweets by rishabh_misra_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</div>
+</div> -->
 
